@@ -7,7 +7,7 @@
     <title>RentalBuku</title>
 </head>
 <body>
-<img width=220 height=250  src=" <?= base_url('assets/img/syifa.jpg') ?> ">
+
 <section>
     <h4>Nama</h4>
     <ul type="disc">
@@ -27,6 +27,7 @@
         <li>Kulineran</li>
         <li>Masak</li>
     </ul>
+    <center><img width=220 height=250  src=" <?= base_url('assets/img/syifa.jpg') ?> "></center>
 </section>
 </body>
 </html>
